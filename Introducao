@@ -1,0 +1,33 @@
+# Entrevista Padrão #
+
+from asyncio.base_futures
+
+
+print('Olá seja Bem Vindo a entrevista profissional')   
+
+nome = input('Qual o seu nome?:')
+
+print('Muito prazer em conhecer você ' + nome)
+
+
+idade = input('Qual a sua idade?:')
+
+print('Certo, ' + idade + ' anos.')
+
+formacao = input('Qual sua formação acadêmica?:')
+
+print('Uma ' + formacao +  ' bem procurada nos dias de hoje')
+
+experiencia = input('Tem alguma experiência na área?:')
+
+print('Nunca é tarde para uma nova experiência.')
+
+objetivo = input('Qual o seu abjetivo dentro da empresa?:')
+
+
+
+cursos = input('Existe mais algum curso técnico ou específico no qual tenha feito?:')
+
+contato = input('Qual o seu contato?:')
+
+print('Muito obrigado pela disponibilidade a Empresa entrará em contato, Tenha um bom dia!')
